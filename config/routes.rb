@@ -4,4 +4,6 @@ Rails.application.routes.draw do
       resources :books, only: [:index, :create, :destroy]
     end
   end
+
+  root to: "api/v1/books#index"
 end
