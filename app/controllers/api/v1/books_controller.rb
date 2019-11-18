@@ -25,7 +25,7 @@ class Api::V1::BooksController < ApplicationController
 
   def get_all_books(status)
     books = Book.all.as_json(only: [:id, :title, :author, :category])
-    {status:status, data:books}
+    {status:status, books: books}
   end
 
   def book_params
