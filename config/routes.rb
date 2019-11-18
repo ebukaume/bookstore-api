@@ -6,4 +6,6 @@ Rails.application.routes.draw do
   end
 
   root to: "api/v1/books#index"
+  
+  match '*all', controller: 'application', action: 'cors_preflight_check', via: [:options]
 end
