@@ -1,9 +1,9 @@
 require 'faker'
 
-CATEGORIES = %w(Action, Horror, Sci-Fi, Learning, Kids, Biography, History)
+CATEGORIES = %w(Action Horror Sci-Fi Learning Kids Biography History)
 
 Book.destroy_all
-5.times do |index|
+7.times do |index|
   Book.create({
     title: Faker::Book.title,
     author: Faker::Book.author,
