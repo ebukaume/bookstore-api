@@ -18,11 +18,17 @@
   </a>
 </p>
 
+<p>
+  <a href="https://bookstore-react-redux.herokuapp.com" target="_blank">
+    <img alt="Website" src="./docs/bookstore-api.png" />
+  </a>
+</p>
+
 <br>
 
 The project is part of a series of projects to be completed by students of [Microverse](https://www.microverse.org/ "The Global School for Remote Software Developers!").
 
-  This is a collaborative project by [Y.Emre AYBEY](https://github.com/YemreAybey) and [Ebuka Umeokonkwo](https://github.com/ebukaume). In this project, we implemented a basic API infrastructure to power our Bookstore CMS webapp built with React and Redux. The live link for the bookstore is [here](https://bookstore-react-redux.herokuapp.com/) while the repo is over [here](https://github.com/YemreAybey/bookstore-redux)
+  This is a collaborative project by [Y.Emre AYBEY](https://github.com/YemreAybey) and [Ebuka Umeokonkwo](https://github.com/ebukaume). In this project, we implemented a basic API infrastructure to power our Bookstore CMS webapp built with React and Redux. The live link for the bookstore is [here](https://bookstore-react-redux.herokuapp.com/) while the repo is over [here](https://github.com/YemreAybey/bookstore-redux).
 
 ## Technologies
 
