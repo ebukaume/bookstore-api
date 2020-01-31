@@ -81,3 +81,8 @@ Give a ⭐️ if you like this project!
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details
+
+## Contact me
+
+I am looking for my next opportunity. Reach out to me if you are looking to hire!
+_ebukaume@gmail.com_
