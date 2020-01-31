@@ -21,7 +21,7 @@
 <br>
 
 <p>
-  <a href="https://bookstore-react-redux.herokuapp.com" target="_blank">
+  <a href="http://bookstore-redux-api.herokuapp.com/api/v1" target="_blank">
     <img alt="Website" src="./docs/bookstore-api.png" />
   </a>
 </p>
