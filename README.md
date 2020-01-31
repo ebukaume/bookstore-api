@@ -18,6 +18,8 @@
   </a>
 </p>
 
+<br>
+
 <p>
   <a href="https://bookstore-react-redux.herokuapp.com" target="_blank">
     <img alt="Website" src="./docs/bookstore-api.png" />
